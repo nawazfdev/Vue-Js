@@ -2,7 +2,7 @@
 
     <h1>Home compenent {{ "MuhammadNawaz".length }}</h1>
     <h1>Email:{{ email }}</h1>
-    <h1>Password:{{ Mobile }}</h1>
+    <h1>Mobile:{{ Mobile}}</h1>
     <h1>Framwork:{{ getName() }}</h1>
 
 
